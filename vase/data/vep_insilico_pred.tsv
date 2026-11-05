@@ -52,6 +52,10 @@ PROVEAN_score	0.5	score	lower=damaging
 Polyphen2_HDIV_score	0.5	score
 Polyphen2_HVAR_score	0.5	score
 SIFT_score	0.5	score	lower=damaging
+AlphaMissense_score  0.792  score
+VARITY_R_score  0.675  score
+ESM1b_score  -10.7  score  lower=damaging
+popEVE_score  -3.998  score  lower=damaging
 #rank scores
 CADD_raw_rankscore	0.5	score
 fathmm-MKL_coding_rankscore	0.28317	score
